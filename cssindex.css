@@ -20,6 +20,12 @@
     display: inline;
     margin-right: 4em;
     
+}.nav{
+    background-color: #3a1425;
+    padding: 20px;
+    text-align: center;
+}
+* {
 }
 .as{
    margin-top: 10px;
@@ -46,6 +52,11 @@
 
 
 }
+.li{
+    margin-right: 15xp;
+
+}
+
 .nav .na a{
     text-decoration: none;
 }
